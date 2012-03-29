@@ -4,3 +4,6 @@ apiDetails.php
 # Use wildcards as well
 *~
 *.swp
+*.ipr
+*.iws
+module/
